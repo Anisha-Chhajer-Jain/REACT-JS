@@ -1,0 +1,11 @@
+
+body{
+  background-color: aliceblue;
+  color: black;
+}
+button{
+  background-color: rgb(127, 175, 217);
+}
+li{
+  padding: 5px;
+}
