@@ -1,0 +1,17 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 235, 235);
+  color: black;
+}
+
+p{
+  background-color: rgb(252, 211, 211);
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+  width: 100px;
+  height: 30px;
+  border: none;
+}
